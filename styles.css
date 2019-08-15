@@ -1,0 +1,22 @@
+body {
+  background-color: blue;
+  color: white;
+}
+
+.centeralign{
+  float: right;
+  font-style: italic;
+  text-align: justify;
+}
+
+.firstParagraph {
+  color: red;
+}
+
+img{
+  float: right;
+}
+
+.column {
+  width: 30%;
+}
